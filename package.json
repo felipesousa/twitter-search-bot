@@ -1,0 +1,25 @@
+{
+  "name": "twitter_bot",
+  "version": "0.0.1",
+  "description": "simple twitter bot created to search and make some things with twitter.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/felipesousa/twitter-search-bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "nodejs",
+    "bots",
+    "query"
+  ],
+  "author": "Felipe Sousa <felipzbr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felipesousa/twitter-search-bot/issues"
+  },
+  "homepage": "https://github.com/felipesousa/twitter-search-bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  }
+}
